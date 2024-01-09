@@ -2,6 +2,17 @@
 
 This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using Django framework.
 
+## Output Screenshots
+1. Home Page
+    ![Home Page](screenshots/home.png)
+
+2. Registration Form
+    ![Registration Form](screenshots/register.png)
+
+3. Update Form
+    ![Update Form](screenshots/update.png)
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -48,16 +59,6 @@ This Django project provides a simple web application for managing student recor
 - Use the "Register" link to add new student records.
 - Click on the "Update" link next to a student record to modify the details.
 - Press the "Delete" link to remove a student record.
-
-## Output Screenshots
-1. Home Page
-    ![Home Page](screenshots/home.png)
-
-2. Registration Form
-    ![Registration Form](screenshots/register.png)
-
-3. Update Form
-    ![Update Form](screenshots/update.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
