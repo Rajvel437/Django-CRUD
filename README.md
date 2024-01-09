@@ -3,13 +3,13 @@
 This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using Django framework.
 
 ## Output Screenshots
-1. Home Page
+### 1. Home Page
     ![Home Page](outputs/index.png)
 
-2. Insert Data  
+### 2. Insert Data  
     ![Registration Form](outputs/insert.png)
 
-3. Update Data
+### 3. Update Data
     ![Update Form](outputs/update.png)
 
 
