@@ -4,13 +4,13 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 
 ## Output Screenshots
 1. Home Page
-    ![Home Page](screenshots/home.png)
+    ![Home Page](outputs/index.png)
 
-2. Registration Form
-    ![Registration Form](screenshots/register.png)
+2. Insert Data  
+    ![Registration Form](outputs/insert.png)
 
-3. Update Form
-    ![Update Form](screenshots/update.png)
+3. Update Data
+    ![Update Form](outputs/update.png)
 
 
 ## Table of Contents
